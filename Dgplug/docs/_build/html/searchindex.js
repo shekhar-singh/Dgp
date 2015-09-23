@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{firstclass:1,index:0,search:0,thi:1,show:1,modul:0,head:1,content:0,file:1,our:1,page:0,name:1},objtypes:{},objnames:{},filenames:["index","chapter1"],titles:["Welcome to DGPFOO&#8217;s documentation!","firstchapter"],objects:{},titleterms:{firstchapt:1,welcom:0,indic:0,tabl:0,dgpfoo:0,document:0}})
